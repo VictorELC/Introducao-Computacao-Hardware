@@ -1,7 +1,10 @@
 ## Introducao-Computacao-Hardware
  Atividade de Introdução à Computação
 
-## Feito em colaboração com Sara Rebeca do Rosário Soares
+### Feito em grupo pelos alunos: 
+
+#### Sara Rebeca do Rosário Soares
+#### Victor Eduardo Lima de Castro
 
 # Investigação de Hardware: Supercomputador Cray-1
 
