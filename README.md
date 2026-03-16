@@ -4,7 +4,8 @@
 # Investigação de Hardware: Supercomputador Cray-1
 
 ##### Descrição
-O Cray-1 foi um Supercomputador desenvolvido e manufaturado pela Cray Research, uma empresa produtora de supercomputadores com sede em Seattle, EUA. O seu primeiro modelo foi criado em 1976, e foi considerado o computador mais rápido da época, entre 1976 e 1982, sendo cerca de 10 vezes mais rápido do que os computadores concorrentes da época. Mas custava até $10M ( hoje em dia, R$53.306.010). e consumia 115 KW de energia, o suficiente para alimentar 10 casas.
+
+O Cray-1 foi um Supercomputador desenvolvido e manufaturado pela Cray Research, uma empresa produtora de supercomputadores sediada em Minnesota, EUA. O seu primeiro modelo foi criado em 1976, e foi considerado o computador mais rápido da época, entre 1976 e 1982, sendo cerca de 10 vezes mais rápido do que os computadores concorrentes da época. Mas custava até $10M ( hoje em dia, R$53.306.010). e consumia 115 KW de energia, o suficiente para alimentar 10 casas.
 
 ![Cray-1](http://images.computerhistory.org/revonline/images/x1553.98ap-03-01.jpg?w=600)
 
@@ -34,20 +35,20 @@ Todas as unidades funcionais executavam seus algoritmos em tempo fixo, e múltip
 
 ##### ULA
 
-O i9-9900K possui um back-end superescalar da Skylake (codinome da intel para a sua sexta geração de microprocessadores) com 8 portas de execução, cada uma com 20 unidades funcionais especializadas. Dessas portas, 4 são de execução inteira, 2 são AGU de propósito geral, e uma porta é exclusiva de store.
+O i9-9900K possui um back-end superescalar da Skylake (codinome da Intel para a sua sexta geração de microprocessadores) com 8 portas de execução, cada uma com  até 20 unidades funcionais especializadas. Dessas portas, 4 são de execução inteira, 2 são AGU de propósito geral, e uma porta é exclusiva de store.
 
 O processador pode fazer uma quantidade de operações muito maior  do que o Cray-1, tanto para pontos flutuantes e vetoriais, quanto para inteiros e operações de memórias.
 
 ##### Unidade de Controle
 
 A UC do i9-9900K é distribuida pelo front-end e back-end, tendo 14 estágios.
-No Front-End, ocorre a busca e decodificação, onde uma instrução é buscada, depois decodificada, depois executada e somente então retirada. Esse processo é sobreposto entre instruções adjacentes. Ou seja, enquanto uma está sendo retirada, a seguinte já está sendo executada, a próxima sendo codificada, e a outra sendo buscada.
+No Front-End, ocorre a busca e decodificação, onde uma instrução é buscada, depois decodificada, depois executada e somente então retirada. Esse processo é sobreposto entre instruções adjacentes. Ou seja, enquanto uma está sendo retirada, a seguinte já está sendo executada, a próxima sendo decodificada, e a outra sendo buscada.
 
-No Back-End, é onde há a execuç~~ao fora  de ordem, onde as micro-operações passam por um Buffer de Reorganização (ROB/Reorder Buffer), onde ocorrem alocação de registradores, renomeamento e o retiring. O ROB do Skylake tem 224 entradas.
+No Back-End, é onde há a execução fora  de ordem, onde as micro-operações passam por um Buffer de Reorganização (ROB/Reorder Buffer), onde ocorrem alocação de registradores, renomeamento e o retiring. O ROB do Skylake tem 224 entradas.
 
 #### Armazenamento - Cray-1
 
-Possuía cinco conjuntos de registradores, sendo 3 primários (Adress, Escalar e Vetorial), que eram acessíveis diretamente pelas unidades funcionais, e 2 intermediários (Adress intermediário e Escalar intermediário). Os registradores intermediários de endereço e escalares, ambos com 64 bits cada, podiam ser preenchidos por transferências em bloco a partir da memória.
+Possuía cinco conjuntos de registradores, sendo 3 primários (Address, Escalar e Vetorial), que eram acessíveis diretamente pelas unidades funcionais, e 2 intermediários (Address intermediário e Escalar intermediário). Os registradores intermediários de endereço e escalares, ambos com 64 bits cada, podiam ser preenchidos por transferências em bloco a partir da memória.
 
 Sua memória era construída com chips LSI de 1024 bits, e até 1.048.576 palavras de 72 bits, sendo 64 bits de dados somados a 8 bits de verificação. No total, equivale a uma memória RAM de cerca de 8 MegaBytes e 152 registradores no total.
 
@@ -57,7 +58,7 @@ Possui 64KB de cache L1 por núcleo, 256 KB de cache L2 por núcleo e 16 MB de c
 
 #### Interface - Cray-1
 
-A sua entrada e saída era feita através ded 24 canais de Input/Output. 12 de entrada e 12 de saída, qualquer um desses canais ´podendo estar ativos ao mesmo tempo. A entrada e saída compartilhavam o acesso à memória via uma única porta.
+A sua entrada e saída era feita através de 24 canais de Input/Output. 12 de entrada e 12 de saída, qualquer um desses canais podendo estar ativos ao mesmo tempo. A entrada e saída compartilhavam o acesso à memória via uma única porta.
 
 O Cray-1 podia ser conectado a sistemas front-end por meio de controladores especiais da empresa Cray Research, que compensavam diferenças em larguras de canal, tamanho de palavra e máquina. 
 Também possuia  periféricos de saída como uma impressora e o plotter, que eram conectados ao subsistema de armazenamento em massa.
