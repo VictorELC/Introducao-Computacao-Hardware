@@ -84,3 +84,5 @@ Wikipedia. List of Intel CPU microarchitectures. https://en.wikipedia.org/wiki/L
 Wikipedia. Skylake (microarchitecture). https://en.wikipedia.org/wiki/Skylake_(microarchitecture)
 
 desklib. Analysis of Intel Core i9-9900K Processor Architecture and Features. https://desklib.com/study-documents/intel-core-i9-9900k-architecture-1/
+
+DELGADO, J.; RIBEIRO, C. Arquitetura de Computadores. São Paulo: Grupo GEN, 2017. MINHA BIBLIOTECA (CeUB
