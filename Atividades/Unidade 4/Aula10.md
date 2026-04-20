@@ -34,5 +34,7 @@ Cada grupo deve incluir neste repositório:
   - `elementos_rede.png` ou `elementos_rede.pdf`
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
+## Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
+
 
 ---
