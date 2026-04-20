@@ -30,8 +30,8 @@ Cada grupo deve incluir neste repositório:
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
 - Dentro da pasta, incluir:
-  - 'linha_teppo.pdf` ou `linha_tempo.png`
-  - 'elementos_rede.png` ou `elementos_rede.pdf`
+  - `linha_teppo.pdf` ou `linha_tempo.png`
+  - `elementos_rede.png` ou `elementos_rede.pdf`
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
 
