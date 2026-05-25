@@ -24,8 +24,10 @@ Aplicação de backup e restauração fácil em todos os níveis possíveis para
 
 ### Referências
 
-https://www.malwarebytes.com/pt-br/stuxnet
+MALWAREBYTES. Stuxnet. [S. l.]: Malwarebytes, [2023]. Disponível em: https://www.malwarebytes.com/pt-br/stuxnet. Acesso em: 25 maio 2026.
 
-https://www.trellix.com/pt-br/security-awareness/ransomware/what-is-stuxnet/
+TRELLIX. O que é o Stuxnet? [S. l.]: Trellix, 31 out. 2024. Disponível em: https://www.trellix.com/pt-br/security-awareness/ransomware/what-is-stuxnet/. Acesso em: 25 maio 2026.
 
-https://www.avast.com/pt-br/c-stuxnet
+TRELLIX. O que é o Stuxnet? [S. l.]: Trellix, 31 out. 2024. Disponível em: https://www.trellix.com/pt-br/security-awareness/ransomware/what-is-stuxnet/. Acesso em: 25 maio 2026.
+
+O GLOBO. Vírus Stuxnet, que atacou usinas nucleares no Irã, foi criado em parceria por EUA e Israel. Rio de Janeiro: O Globo, 1 jun. 2012. Disponível em: https://oglobo.globo.com/economia/virus-stuxnet-que-atacou-usinas-nucleares-no-ira-foi-criado-em-parceria-por-eua-israel-2836696. Acesso em: 25 maio 2026.
