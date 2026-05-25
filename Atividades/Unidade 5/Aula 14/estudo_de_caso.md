@@ -20,3 +20,12 @@ O Stuxnet conseguiu destruir quase um quinto das centrífugas nucleares do Irã,
 Aplicação de políticas rigorosas de BYOD, ou Bring Your Own Device;
 Air gap de qualquer computador que possa afetar a segurança nacional;
 Aplicação de backup e restauração fácil em todos os níveis possíveis para minimizar a  interrupção, aplicação de tecnologias, e a prática dos fundamentos básicos de higiene cibernética, mantendo o sistema operacional e o software de segurança atualizados, visto que as vulnerabilidades de dia zero já foram corrigidas há muito tempo.
+
+
+### Referências
+
+https://www.malwarebytes.com/pt-br/stuxnet
+
+https://www.trellix.com/pt-br/security-awareness/ransomware/what-is-stuxnet/
+
+https://www.avast.com/pt-br/c-stuxnet
