@@ -1,37 +1,29 @@
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
-### Grupo 3 - Infográfico sobre Malwares
+### Grupo 3 - Infográfico sobre Malwares - Victor Eduardo Lima de Castro
 
 ###  1. Ameaça escolhida  
 
-- Malware
+- Malware: Códigos maliciosos que executam ações danosas e atividades maliciosas no sistema e/ou na máquina.
+- Cartilha utilizada: [Cert.br - Códigos Maliciosos](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-codigos-maliciosos-digital-govbr.pdf)
 
+2. **Produção do artefato criativo**  
+   - O artefato produzido foi um infográfico sobre malwares.
+   - O Infográfico foi divido em 4 partes de forma resumida, sendo essas:
+     -  **O que é?**
+     -  **Os riscos que trazem:**
+     -  **Formas de Proteger-se:**
+     -  **Exemplos práticos de Malwares**
 
-3. **Produção do artefato criativo**  
-   - O artefato deve explicar:  
-     - O que é a ameaça.  
-     - Quais riscos ela traz.  
-     - Quais mecanismos de proteção podem ser aplicados.  
-     - Exemplos práticos ou analogias para facilitar a compreensão.  
-   - Formatos possíveis:  
-     - Cartilha ilustrada  
-     - História em Quadrinhos (HQ)  
-     - Mangá  
-     - Álbum de figurinhas  
-     - Infográfico interativo  
-     - Outro formato criativo aprovado pela professora  
-
-4. **Entrega**  
+3. **Entrega**  
    - Publicar o artefato no **GitHub da disciplina**, em uma pasta específica para a Avaliação 3.  
-   - Nome da pasta: `GrupoX_Avaliacao3` (substituir X pelo número do grupo).  
-   - Incluir um `README.md` com:  
-     - Nome do grupo e integrantes.  
-     - Ameaça escolhida.  
-     - Cartilha utilizada como referência.  
-     - Breve descrição do artefato produzido.  
+   - Nome da pasta: `Grupo3_Avaliacao3`.  
+   - Arquivos:
+     - `README.md`  
+     - `Infográfico.pdf`  
 
-5. **Apresentação em sala**  
+4. **Apresentação em sala**  
    - Cada grupo terá 5 minutos para apresentar seu artefato e explicar como ele aborda a ameaça escolhida.  
 
 ---
