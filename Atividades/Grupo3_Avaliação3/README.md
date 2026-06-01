@@ -33,9 +33,3 @@
 - **Criatividade e inovação no formato** – 3 pts  
 - **Aplicação prática dos mecanismos de proteção** – 2 pts  
 - **Organização e participação do grupo** – 2 pts  
-
----
-
-### Reflexão Individual
-Cada integrante deve produzir um texto curto (1 página) respondendo:  
-**“Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?”**
